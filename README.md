@@ -1,4 +1,4 @@
-# CS167-Fall24-Notebook-3: Cross Validation with kNN and Vehicle Fuel Efficiency
+# CS167-SP25-Notebook-3: Cross Validation with kNN and Vehicle Fuel Efficiency
 
 ## The Data: :fuelpump:
 For this notebook, you're going to continue working with the k-NN function you made for predicting vehicle fuel efficiency from Notebook 2. As with Notebook 2, use only the data with `'fuelType' == 'Regular'` and use the features `["comb08","year", "cylinders", "displ"]` with "comb08" being the target feature.
