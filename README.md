@@ -5,7 +5,7 @@ For this notebook, you're going to continue working with the k-NN function you m
 
 However, this time, you are going to **cross-validate** your model by using independent training and test subsets of the data. 
 
-For an example of this using the Iris dataset, see the notes from Lecture 07, ([or this GitHub repository](https://github.com/alimoorreza/CS167-fall24-notes/blob/main/Day09_Evaluation_Metrics_and_Testing.ipynb))
+For an example of this using the Iris dataset, see the notes from Lecture 08, ([or this GitHub repository](https://github.com/alimoorreza/CS167-sp25-notes/blob/main/Day09_Evaluation_Metrics_and_Testing.ipynb))
 
 ## What you need to do: 
 1. Note that you will need to do some things to adapt it to your problem:
